@@ -26,6 +26,10 @@ public class SectionFour {
         //commit test 1..
 
         // commit test 2....
+
+        // ctrl + k, local commits w/ personalized messages and identifier.
+        // ctrl + shift + k, pushes local commits and history to repo at github.
+
         System.out.println("this is a string");
 
     }
